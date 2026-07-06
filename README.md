@@ -108,27 +108,7 @@ Pet services platform with booking, matching, geolocation, and training resource
 
 <br/>
 
-## Pinned Repositories
 
-<div align="center">
-  <a href="https://github.com/MutsaSanyamahwe/DevVerify_System">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MutsaSanyamahwe&repo=DevVerify_System&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
-  </a>
-  <a href="https://github.com/MutsaSanyamahwe/Devmatch">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MutsaSanyamahwe&repo=Devmatch&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/your-username/github-repo-recommender">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MutsaSanyamahwe&repo=github-repo-recommender&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
-  </a>
-  <a href="https://github.com/your-username/Pawpal-Overview">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MutsaSanyamahwee&repo=Pawpal-Overview&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
-  </a>
-</div>
-
-<br/>
 
 ## Currently Learning
 
@@ -144,26 +124,7 @@ Each repository documents notes, diagrams, and working implementations as I go â
 
 <br/>
 
-## GitHub Stats
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MutsaSanyamahwe&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&border_color=30363D&hide_border=false" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutsaSanyamahwe&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MutsaSanyamahwe&theme=dark&background=0D1117&stroke=30363D&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&border=30363D" />
-</div>
-
-<br/>
-
-## Contribution Graph
-
-<div align="center">
-  <img src="./assets/snake-dark.svg" alt="Contribution snake animation" />
-</div>
-
-<br/>
 
 <div align="center">
   <sub>Built with a focus on clarity, architecture, and shipping systems that scale.</sub>
