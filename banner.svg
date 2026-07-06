@@ -1,0 +1,84 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1F2733" stroke-width="1"/>
+    </pattern>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="accentText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#79C0FF"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <!-- distributed nodes / network lines (right side) -->
+  <g stroke="#58A6FF" stroke-width="1.2" opacity="0.55">
+    <line x1="760" y1="90" x2="880" y2="60"/>
+    <line x1="880" y1="60" x2="1010" y2="95"/>
+    <line x1="1010" y1="95" x2="1120" y2="70"/>
+    <line x1="880" y1="60" x2="900" y2="170"/>
+    <line x1="1010" y1="95" x2="960" y2="200"/>
+    <line x1="960" y1="200" x2="1080" y2="230"/>
+    <line x1="900" y1="170" x2="1080" y2="230"/>
+    <line x1="760" y1="90" x2="820" y2="220"/>
+    <line x1="820" y1="220" x2="960" y2="200"/>
+  </g>
+  <g fill="#79C0FF">
+    <circle cx="760" cy="90" r="4"/>
+    <circle cx="880" cy="60" r="5"/>
+    <circle cx="1010" cy="95" r="4.5"/>
+    <circle cx="1120" cy="70" r="4"/>
+    <circle cx="900" cy="170" r="4"/>
+    <circle cx="960" cy="200" r="5"/>
+    <circle cx="1080" cy="230" r="4"/>
+    <circle cx="820" cy="220" r="4"/>
+  </g>
+
+  <!-- simplified server rack -->
+  <g transform="translate(1000,130)">
+    <rect x="0" y="0" width="150" height="120" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+    <rect x="12" y="14" width="126" height="20" rx="3" fill="#0D1117" stroke="#30363D"/>
+    <circle cx="24" cy="24" r="3" fill="#58A6FF"/>
+    <rect x="12" y="44" width="126" height="20" rx="3" fill="#0D1117" stroke="#30363D"/>
+    <circle cx="24" cy="54" r="3" fill="#79C0FF"/>
+    <rect x="12" y="74" width="126" height="20" rx="3" fill="#0D1117" stroke="#30363D"/>
+    <circle cx="24" cy="84" r="3" fill="#58A6FF"/>
+  </g>
+
+  <!-- subtle AI / neural motif -->
+  <g stroke="#79C0FF" stroke-width="1" opacity="0.4">
+    <circle cx="1140" cy="250" r="18" fill="none"/>
+    <circle cx="1140" cy="250" r="3" fill="#79C0FF" stroke="none"/>
+    <line x1="1140" y1="232" x2="1140" y2="222"/>
+    <line x1="1155" y1="240" x2="1163" y2="234"/>
+    <line x1="1155" y1="260" x2="1163" y2="266"/>
+    <line x1="1125" y1="240" x2="1117" y2="234"/>
+    <line x1="1125" y1="260" x2="1117" y2="266"/>
+  </g>
+
+  <!-- text block -->
+  <text x="60" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="600" fill="#F0F6FC">
+    Mutsa Sanyamahwe
+  </text>
+  <text x="60" y="178" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="url(#accentText)">
+    Software Engineer · Backend &amp; Distributed Systems
+  </text>
+  <text x="60" y="212" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8B949E" letter-spacing="1">
+    JOHANNESBURG, SOUTH AFRICA
+  </text>
+
+  <line x1="60" y1="230" x2="260" y2="230" stroke="#30363D" stroke-width="1"/>
+</svg>
