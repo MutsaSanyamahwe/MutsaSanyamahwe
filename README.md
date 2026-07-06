@@ -8,10 +8,10 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF&labelColor=0D1117)](https://linkedin.com/in/www.linkedin.com/in/mutsa-sanyamahwe-77289529a)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF&labelColor=0D1117)](https://www.linkedin.com/in/mutsa-sanyamahwe-77289529a)
   [![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF&labelColor=0D1117)](mailto:sanyamahwemutsa@gmail.com)
-  [![GitHub followers](https://img.shields.io/github/followers/your-username?style=flat-square&color=58A6FF&labelColor=0D1117)](https://github.com/MutsaSanyamahwe)
-  [![Profile views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=58A6FF&label=Profile+views)](https://github.com/MutsaSanyamahwe)
+  [![GitHub followers](https://img.shields.io/github/followers/MutsaSanyamahwe?style=flat-square&color=58A6FF&labelColor=0D1117)](https://github.com/MutsaSanyamahwe)
+  [![Profile views](https://komarev.com/ghpvc/?username=MutsaSanyamahwe&style=flat-square&color=58A6FF&label=Profile+views)](https://github.com/MutsaSanyamahwe)
 
 </div>
 
