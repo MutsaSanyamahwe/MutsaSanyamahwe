@@ -8,10 +8,10 @@
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF&labelColor=0D1117)](https://linkedin.com/in/your-handle)
-  [![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF&labelColor=0D1117)](mailto:your.email@example.com)
-  [![GitHub followers](https://img.shields.io/github/followers/your-username?style=flat-square&color=58A6FF&labelColor=0D1117)](https://github.com/your-username)
-  [![Profile views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=58A6FF&label=Profile+views)](https://github.com/your-username)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF&labelColor=0D1117)](https://linkedin.com/in/www.linkedin.com/in/mutsa-sanyamahwe-77289529a)
+  [![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF&labelColor=0D1117)](mailto:sanyamahwemutsa@gmail.com)
+  [![GitHub followers](https://img.shields.io/github/followers/your-username?style=flat-square&color=58A6FF&labelColor=0D1117)](https://github.com/MutsaSanyamahwe)
+  [![Profile views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=58A6FF&label=Profile+views)](https://github.com/MutsaSanyamahwe)
 
 </div>
 
@@ -67,7 +67,7 @@ I document what I learn through public, well-structured repositories â€” I belie
 <tr>
 <td width="50%" valign="top">
 
-### [DevVerify](https://github.com/your-username/devverify)
+### [DevVerify](https://github.com/MutsaSanyamahwe/DevVerify_System)
 
 `FastAPI` `Docker` `GitHub API` `PostgreSQL`
 
@@ -76,7 +76,7 @@ Automated developer portfolio engine that analyzes CVs and GitHub repositories t
 </td>
 <td width="50%" valign="top">
 
-### [DevMatch](https://github.com/your-username/devmatch)
+### [DevMatch](https://github.com/MutsaSanyamahwe/Devmatch)
 
 `Node.js` `Express` `React` `PostgreSQL`
 
@@ -87,7 +87,7 @@ Developer matching platform powered by DevVerify, built for automated candidate 
 <tr>
 <td width="50%" valign="top">
 
-### [GitHub Repository Recommender](https://github.com/your-username/github-repo-recommender)
+### [GitHub Repository Recommender](https://github.com/MutsaSanyamahwe/github-repo-recommender)
 
 `Python` `Scikit-Learn` `FastAPI`
 
@@ -96,7 +96,7 @@ Machine learning recommendation engine trained on 900+ open-source repositories 
 </td>
 <td width="50%" valign="top">
 
-### [PawPal](https://github.com/your-username/pawpal)
+### [PawPal](https://github.com/MutsaSanyamahwe/PawPal-Overview)
 
 `Full-Stack`
 
@@ -111,20 +111,20 @@ Pet services platform with booking, matching, geolocation, and training resource
 ## Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/your-username/devverify">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=devverify&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
+  <a href="https://github.com/MutsaSanyamahwe/DevVerify_System">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MutsaSanyamahwe&repo=DevVerify_System&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
   </a>
-  <a href="https://github.com/your-username/devmatch">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=devmatch&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
+  <a href="https://github.com/MutsaSanyamahwe/Devmatch">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MutsaSanyamahwe&repo=Devmatch&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/your-username/github-repo-recommender">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=github-repo-recommender&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MutsaSanyamahwe&repo=github-repo-recommender&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
   </a>
-  <a href="https://github.com/your-username/pawpal">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=pawpal&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
+  <a href="https://github.com/your-username/Pawpal-Overview">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=MutsaSanyamahwee&repo=Pawpal-Overview&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" />
   </a>
 </div>
 
@@ -147,12 +147,12 @@ Each repository documents notes, diagrams, and working implementations as I go â
 ## GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&border_color=30363D&hide_border=false" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MutsaSanyamahwe&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&border_color=30363D&hide_border=false" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutsaSanyamahwe&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&background=0D1117&stroke=30363D&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&border=30363D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MutsaSanyamahwe&theme=dark&background=0D1117&stroke=30363D&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&border=30363D" />
 </div>
 
 <br/>
