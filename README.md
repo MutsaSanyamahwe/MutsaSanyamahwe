@@ -19,17 +19,17 @@
 
 ## About
 
-Software Engineer based in Johannesburg, South Africa, with a BSc in Computer Science & Informatics (Distinction). I build complete backend systems rather than isolated features — with a focus on clear architectural boundaries, scalability, and correctness.
+Software Engineer based in Johannesburg, South Africa, with a BSc in Computer Science & Informatics (Distinction) from the University of Johannesburg.
 
-**Currently focused on:**
+I build tools **for developers, by a developer** — and I design them to work together, not in isolation. My flagship work is a connected three-service platform where each piece has a clear architectural boundary, but none of them exist alone:
 
-- Backend Engineering
-- Distributed Systems
-- System Design
-- AI Engineering
-- Machine Learning Systems
+- **[DevVerify](https://github.com/MutsaSanyamahwe/DevVerify_System)** parses a developer's CV and GitHub activity into a verified profile. It ships as its own product, but it's also built to be *called* — an onboarding engine other platforms can consume.
+- **[DevMatch](https://github.com/MutsaSanyamahwe/Devmatch)** is proof that DevVerify's API contract works in practice: on signup, it calls DevVerify directly and pre-fills a developer's profile instead of making them type it in.
+- **[RepoRecommender](https://github.com/MutsaSanyamahwe/github-repo-recommender)** trains a clustering model offline against ~900 open-source repos, then serves lightweight, request-time predictions — the same "separate the expensive part from the served part" thinking applied to ML instead of onboarding.
 
-I document what I learn through public, well-structured repositories — I believe in **learning in public**.
+All three are live, deployed, and designed as one system a developer could actually plug into — not three unrelated portfolio pieces.
+
+I document how I think through this kind of system design in public: [System Design from First Principles](https://github.com/MutsaSanyamahwe/System-Design-From-First-Principles) and [Computer Science from First Principles](https://github.com/MutsaSanyamahwe/Computer-Science-from-First-Principles).
 
 <br/>
 
@@ -112,15 +112,11 @@ Pet services platform with booking, matching, geolocation, and training resource
 
 ## Currently Learning
 
-Building a set of public repositories that cover:
+## Currently Learning
+- [System Design from First Principles](https://github.com/MutsaSanyamahwe/System-Design-From-First-Principles)
+- [Computer Science from First Principles](https://github.com/MutsaSanyamahwe/Computer-Science-from-First-Principles)
 
-- System Design
-- Distributed Systems
-- Data Structures & Algorithms
-- Backend Engineering
-- Cloud Computing
-
-Each repository documents notes, diagrams, and working implementations as I go — learning in public, one commit at a time.
+Each repository documents notes, diagrams, and working implementations as I go.
 
 <br/>
 
