@@ -111,8 +111,6 @@ Pet services platform with booking, matching, geolocation, and training resource
 
 
 ## Currently Learning
-
-## Currently Learning
 - [System Design from First Principles](https://github.com/MutsaSanyamahwe/System-Design-From-First-Principles)
 - [Computer Science from First Principles](https://github.com/MutsaSanyamahwe/Computer-Science-from-First-Principles)
 
